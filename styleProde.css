@@ -138,3 +138,18 @@ body {
     .tamañoLetra {
         font-size: 11px;
     }
+
+    .click:hover {
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+    .dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0;
+    }
+
+    .clickCasa:hover {
+        font-size: 40px;
+        font-weight: bold;
+    }
