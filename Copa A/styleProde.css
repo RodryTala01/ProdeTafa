@@ -82,6 +82,11 @@ body {
         color: black;
     }
 
+    .cajaBotonesFechas>button>a {
+        color: black;
+        text-decoration: none;
+    }
+
     .fecha {
         margin-top: 2rem;
         display: flex;
@@ -189,4 +194,9 @@ body {
     #ligaB {
         height: auto;
         width: 7rem;
+    }
+
+    #copaTotal {
+        height: auto;
+        width: 3.5rem;
     }
